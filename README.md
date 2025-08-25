@@ -1,6 +1,6 @@
 # Criptografia Simétrica e Assimétrica
 
-**Disciplina:** Sistemas de Informação – Atividades Complementares  
+**Disciplina:** Auditoria e Segurança de Sistemas – Atividades Complementares  
 **Autor:** Daniel  
 **Objetivo:** Demonstrar na prática a aplicação de algoritmos de criptografia utilizando **chave simétrica (Cifra de César)** e **chave assimétrica (RSA simplificado)**.
 
